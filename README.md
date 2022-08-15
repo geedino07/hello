@@ -1,3 +1,2 @@
 # hello
-hello demo repo
-# Hello
+hello demo repo for Gerald
